@@ -1,1 +1,1 @@
-This program asks the user for their name, and then says hello.
+everything is awesome
